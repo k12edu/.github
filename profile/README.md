@@ -25,6 +25,19 @@ The games are designed with exciting and interactive elements to encourage conti
 
 ---
 
+## 📝 Teacher Question Upload Platform  
+We provide a **Teacher Question Upload Platform** designed to facilitate teachers in managing and contributing content for our digital education games.  
+
+- 🌟 **Key Features**:  
+  - Teachers can upload, modify, and review questions directly on the platform.  
+  - Teachers can track how students respond to their questions, gaining insights into the effectiveness and difficulty of their content.  
+  - Integrated **Google Account Authentication** ensures secure access and user identity verification.  
+
+The uploaded questions are added to the question bank of the digital education games, enriching the learning experience.  
+This platform is built with the **Vue.js framework**, providing a modern and responsive user interface for teachers.
+
+---
+
 ## 🐧 Linux Lab (With Kasm WorkSpace)  
 For students eager to explore more advanced IT and technology knowledge, we offer the **Linux Lab**, which provides practical training in:  
 
