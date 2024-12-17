@@ -38,7 +38,7 @@ This platform is built with the **Vue.js framework**, providing a modern and res
 
 ---
 
-## 🐧 Linux Lab (With Kasm WorkSpace)  
+## 🐧 Linux Lab (With Kasm Workspace)  
 For students eager to explore more advanced IT and technology knowledge, we offer the **Linux Lab**, which provides practical training in:  
 
 - Linux system basics and installations  
@@ -46,8 +46,14 @@ For students eager to explore more advanced IT and technology knowledge, we offe
 - Web server development  
 - And much more!  
 
-In the Linux Lab, **Kasm WorkSpace** is run on lab computers and utilizes Docker to provide students with a versatile experimental environment.  
-Additionally, we recommend excellent free resources to complement the learning process, helping students gain hands-on experience and improve their IT skills.
+In the Linux Lab, we provide **Kasm Workspace**, a powerful browser-based tool that facilitates remote desktop environments using Docker.  
+### Important Note:  
+**Kasm Workspace is not developed by us.** However, we provide a free server hosting this tool to enhance the learning experience for our students.  
+
+- Explore Kasm Workspace: [Kasm Workspace Official Website](https://kasmweb.com/)  
+- Access our Kasm Workspace instance: [Linux Lab](https://linux-lab.k12edu.us.kg/)  
+
+With Kasm Workspace, students gain hands-on experience in a versatile experimental environment, complemented by excellent free resources that aid in building IT skills.
 
 ---
 
