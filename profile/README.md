@@ -51,7 +51,7 @@ In the Linux Lab, we provide **Kasm Workspace**, a powerful browser-based tool t
 **Kasm Workspace is not developed by us.** However, we provide a free server hosting this tool to enhance the learning experience for our students.  
 
 - Explore Kasm Workspace: [Kasm Workspace Official Website](https://kasmweb.com/)  
-- Access our Kasm Workspace instance: [Linux Lab](https://linux-lab.k12edu.us.kg/)  
+- Access our Kasm Workspace instance: [Kasm Workspace](https://linux-lab.k12edu.us.kg/)  
 
 With Kasm Workspace, students gain hands-on experience in a versatile experimental environment, complemented by excellent free resources that aid in building IT skills.
 
