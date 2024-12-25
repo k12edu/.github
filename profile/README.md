@@ -3,7 +3,7 @@
 ## 🌏 Origin  
 **Taiwan, National Ilan University**  
 Department of Computer Science and Information Engineering, RFID Lab  
-🎓 **Senior Project, 2024**
+🎓 **Capstone project, 2024**
 
 ---
 
