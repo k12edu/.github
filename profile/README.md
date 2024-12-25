@@ -8,9 +8,9 @@ Department of Computer Science and Information Engineering, RFID Lab
 ---
 
 ## 📚 About Us  
-We are a passionate team of five, focused on creating a platform at [k12edu](https://k12edu.us.kg/) to provide students with more diverse learning opportunities and choices.  
-Through the integration of AI technology, we aim to enhance the accessibility and personalization of educational resources, helping students learn more effectively.  
-Our platform incorporates **game-based learning** to make education more engaging and interactive.
+We are a team of five dedicated to developing digital learning games that make education more enjoyable and effective.
+Our goal is to combine engaging gameplay with AI technology to create a platform that helps K-12 students learn in a fun and interactive way.
+By integrating personalized learning experiences, we strive to support students in discovering the joy of learning while achieving better outcomes.
 
 ---
 
