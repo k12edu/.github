@@ -49,7 +49,7 @@
 
 ---
 
-## 🐧 Linux Lab
+## 🐧 [Linux Lab](https://linux-lab.k12edu.us.kg/#/)
 為了讓對 IT 與科技知識感興趣的學生進一步探索，我們提供了**Linux Lab**，專注於實作訓練：  
 
 - 初階開發技術，如 : 版本控制、認識Linux發行版、容器化技術-Docker初階...等。 
