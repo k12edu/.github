@@ -1,65 +1,63 @@
-# Welcome to Our GitHub Organization 👋
+# 歡迎來到我們的 GitHub 組織 👋
 
-## 🌏 [Origin](https://csie.niu.edu.tw/index.php)
-**Taiwan, National Ilan University**  
-Department of Computer Science and Information Engineering, RFID Lab  
-🎓 **Capstone project, 2024**
-
----
-
-## 📚 [About Us](http://k12edu.us.kg)
-We are a team of five dedicated to developing digital learning games that make education more enjoyable and effective.
-Our goal is to combine engaging gameplay with AI technology to create a platform that helps K-12 students learn in a fun and interactive way.
-By integrating personalized learning experiences, we strive to support students in discovering the joy of learning while achieving better outcomes.
+## 🌏 [組織起源](https://csie.niu.edu.tw/index.php)
+**台灣，國立宜蘭大學**  
+資訊工程學系 RFID 實驗室  
+🎓 **2024 年度畢業專題**
 
 ---
 
-## 🎮 [Digital Learning Educational Games](https://game.k12edu.us.kg)
-Our team has designed and developed **digital learning games** tailored for academic subjects and IT education.  
-
-- 🌐 **Play on Web**: [Game Platform](https://game.k12edu.us.kg)  
-- 📱 **Android App**: [Download on Google Play](https://play.google.com/)  
-
-Through these games, students can easily grasp academic and IT knowledge while having fun.  
-The games are designed with exciting and interactive elements to encourage continuous learning.
+## 📚 [關於我們](http://k12edu.us.kg)
+我們是一個由五人組成的團隊，專注於開發數位學習遊戲，希望讓教育變得更有趣且更有效率。  
+我們的目標是結合吸引人的遊戲玩法與 AI 技術，打造一個幫助 K-12 學生以有趣且互動的方式學習的平台。  
+我們致力於提供適性式的學習體驗，並幫助學生發現學習的樂趣，提升學習的成效。
 
 ---
 
-## 🤖 [AI Learning Assistant](https://ai-web.k12edu.us.kg/)
-We have integrated an **AI Learning Assistant** into our digital games, allowing students to interact with the assistant via the game or the web platform.  
+## 🎮 [數位學習教育遊戲](https://game.k12edu.us.kg)
+我們的團隊設計並開發了專為學科教育與 IT 教育設計的**數位學習遊戲**。  
 
-- 🌟 **Key Features**:  
-  - Helps students resolve questions and gain deeper insights into learning materials.  
-  - Enhances engagement and learning efficiency through interactive AI support.  
+- 🌐 **網頁遊玩**: [遊戲平台](https://game.k12edu.us.kg)  
+- 📱 **Android 應用程式**: [Google Play 下載](https://play.google.com/)  
 
-We have fine-tuned our AI model, based on [Llama-3-Taiwan-8B-Instruct](https://huggingface.co/yentinglin/Llama-3-Taiwan-8B-Instruct), using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).  
-For deployment, we utilize [ollama](https://github.com/ollama/ollama) and [ragflow](https://github.com/infiniflow/ragflow) to ensure stable operations and implement Retrieval-Augmented Generation (RAG) capabilities.
+透過這些遊戲，學生可以在享受樂趣的同時輕鬆掌握學科與 IT 知識。  
+遊戲內含令人興奮且互動的元素，旨在鼓勵持續學習。
 
 ---
 
-## 📝 [Teacher Question Upload Platform](https://teacher.k12edu.us.kg/)
-We provide a **Teacher Question Upload Platform** designed to facilitate teachers in managing and contributing content for our digital education games.  
+## 🤖 [AI 學習助理](https://ai-web.k12edu.us.kg/)
+我們將**AI 學習助理**整合到數位遊戲中，學生可以透過遊戲或網頁平台與助理進行互動。  
 
-- 🌟 **Key Features**:  
-  - Teachers can upload, modify, and review questions directly on the platform.  
-  - Teachers can track how students respond to their questions, gaining insights into the effectiveness and difficulty of their content.  
-  - Integrated **Google Account Authentication** ensures secure access and user identity verification.  
+- 🌟 **主要功能**:  
+  - 協助學生解決問題並深入理解學習材料。  
+  - 透過互動式 AI 支援提升參與感與學習效率。  
 
-The uploaded questions are added to the question bank of the digital education games, enriching the learning experience.  
-This platform is built with the **Vue.js framework**, providing a modern and responsive user interface for teachers.
+我們的 AI 模型基於 [Llama-3-Taiwan-8B-Instruct](https://huggingface.co/yentinglin/Llama-3-Taiwan-8B-Instruct) 進行微調。
+在提供服務時，搭配 RAG 技術，減少模型的幻覺情況發生，以提高回答的準確性。
+
+---
+
+## 📝 [教師題目上傳平台](https://teacher.k12edu.us.kg/)
+我們提供了**教師題目上傳平台**，旨在協助教師管理與提供我們數位教育遊戲的內容。  
+
+- 🌟 **主要功能**:  
+  - 教師可以直接在平台上上傳、修改及審核題目。  
+  - 教師可以追蹤學生回答題目的情況，了解內容的成效與難度。  
+  - 使用 **Google 帳號認證**，確保安全的存取與身份驗證。  
+
+上傳的題目將被加入數位教育遊戲的題庫，豐富學生的學習體驗。  
 
 ---
 
 ## 🐧 Linux Lab
-For students eager to explore more advanced IT and technology knowledge, we offer the **Linux Lab**, which provides practical training in:  
+為了讓對 IT 與科技知識感興趣的學生進一步探索，我們提供了**Linux Lab**，專注於實作訓練：  
 
-- Linux system basics and installations  
-- Virtual machines, Docker, and SSH  
-- Web server development  
-- And much more!  
+- 初階開發技術，如 : 版本控制、認識Linux發行版、容器化技術-Docker初階...等。 
+- 中階開發技術，如 : 容器化技術-Docker進階、伺服器開發、虛擬化平台...等。
+- 進階開發技術，如 : CI/CD、Kubernetes(k8s)...等。
 
-The Linux Lab is designed to provide students with a hands-on experimental environment that fosters deeper understanding and practical skills in IT and technology.  
+Linux Lab 旨在為學生提供更進階開發技術學習機會，培養更深入的理解與實務技能。  
 
 ---
 
-Thank you for visiting our GitHub organization! We are committed to creating diverse and innovative learning solutions. Stay tuned for our latest updates! 🚀
+感謝您造訪我們的 GitHub 組織！我們致力於創造多元且創新的學習解決方案，請隨時關注我們的最新動態！🚀
